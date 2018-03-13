@@ -6,3 +6,73 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+  font-family: "Lucida Grande", sans-serif;
+  color: #000;
+}
+
+header {
+  width: 100%;
+  height: auto;
+  background-color: FFF;
+}
+
+#img-spotify-logo {
+  width: 167px;
+  height: 50px;
+  padding: 13px 827px 12px 30px;
+}
+
+nav {
+  font-size: 18px;
+  padding: 23px 19px 31px 672px;
+}
+
+nav a {
+  color: #000;
+  text-decoration: none;
+}
+
+#landing {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 64px;
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 24px;
+  color: #00b172;
+}
+
+h4 {
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+.body-image {
+  width: 100px;
+}
+
+#img-logo-small {
+  width: 100px;
+}
+
+#img-spotify-app {
+  width: 259px;
+}
